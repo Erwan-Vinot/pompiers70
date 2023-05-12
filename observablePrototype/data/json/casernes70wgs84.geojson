@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "casernes70wgs84simplerepaired2",
+"name": "casernes70wgs84simple",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id_0": 1, "nom": "AUTREY LES GRAY" }, "geometry": { "type": "Point", "coordinates": [ 5.493333333333332, 47.4847222 ] } },
@@ -17,7 +17,7 @@
 { "type": "Feature", "properties": { "id_0": 12, "nom": "MARNAY" }, "geometry": { "type": "Point", "coordinates": [ 5.7775, 47.2938889 ] } },
 { "type": "Feature", "properties": { "id_0": 13, "nom": "MONTBOZON" }, "geometry": { "type": "Point", "coordinates": [ 6.248333333333334, 47.470555555555549 ] } },
 { "type": "Feature", "properties": { "id_0": 14, "nom": "PASSAVANT" }, "geometry": { "type": "Point", "coordinates": [ 6.035, 47.973333333333322 ] } },
-{ "type": "Feature", "properties": { "id_0": 15, "nom": "PORT SUR SAÔNE" }, "geometry": { "type": "Point", "coordinates": [ 6.060833333333333, 47.687222222222211 ] } },
+{ "type": "Feature", "properties": { "id_0": 15, "nom": "PORT SUR SAONE" }, "geometry": { "type": "Point", "coordinates": [ 6.060833333333333, 47.687222222222211 ] } },
 { "type": "Feature", "properties": { "id_0": 16, "nom": "RIOZ" }, "geometry": { "type": "Point", "coordinates": [ 6.068055555555556, 47.4325 ] } },
 { "type": "Feature", "properties": { "id_0": 17, "nom": "RONCHAMP" }, "geometry": { "type": "Point", "coordinates": [ 6.636388888888889, 47.70055555555556 ] } },
 { "type": "Feature", "properties": { "id_0": 18, "nom": "SAINT LOUP SUR SEMOUSE" }, "geometry": { "type": "Point", "coordinates": [ 6.266944444444443, 47.877222222222223 ] } },
